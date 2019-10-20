@@ -20,6 +20,8 @@
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
     </include_path>
   </component>
   <component name="ProjectId" id="1SSMFNfT9YHqlXexAheubHyxIvA" />
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571552438905</updated>
-      <workItem from="1571552440125" duration="2606000" />
+      <workItem from="1571552440125" duration="2892000" />
     </task>
     <servers />
   </component>
